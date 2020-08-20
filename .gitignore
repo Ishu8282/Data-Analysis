@@ -1,0 +1,5 @@
+# Don't track contents of these folders
+Credit Card Fraud Detection/
+
+*.csv
+*.csv.zip
